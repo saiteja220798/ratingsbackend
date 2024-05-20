@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongobd": "^0.0.1-security.0",
+    "mongodb": "^6.6.0",
+    "mongoose": "^8.3.3",
+    "nodemon": "^3.1.0"
+  }
+}
